@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-https://github.com/mohitroy234/fitness_freak/assets/109425805/6d0bbd95-17ce-4502-9d3f-ba6dea1e898c
+
 
 
 
@@ -20,3 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/ASHUT0SHRA1/fitness_rest/assets/89987124/76f7eaf1-538f-4bca-92d7-47830e78de34
+
